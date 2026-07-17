@@ -1,5 +1,6 @@
 # Priyanshu.demo
 This is my first  Git Repository 
 <br>
-Author - Priyanshu (Megha)
+Author - Priyanshu (Megha) Nfarat
+
 
